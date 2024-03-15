@@ -1,6 +1,6 @@
-# New Scraper 2.0
+# News Scraper 2.0
 
-# Download Project
+## Download the project
 
 ## Register API Keys at https://newsapi.org/
 
