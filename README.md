@@ -1,4 +1,4 @@
-# News Scraper 2.0
+# News Scraper Terminal Version
 
 ## Download the project
 
